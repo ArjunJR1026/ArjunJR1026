@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ArjunJR1026
 - 👀 I’m interested in SOFTWARE ENGINEERING.
-- 🌱 I’m currently learning BLOCKCHAIN TECHNOLOGY.
-- 💞️ I’m looking to collaborate on blockchain technology.
+- I'm learning full stack development
 - 📫 How to reach me 📞 6361145404
 - EMAIL: arjunrajannaarjunrajanna@gmail.com 
   
